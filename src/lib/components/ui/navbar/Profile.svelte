@@ -182,7 +182,7 @@
       >
         <Icon src={ServerStack} size="16" mini />
       </Button>
-      <Button
+<!--  <Button
         color="tertiary"
         href="https://buymeacoffee.com/xylight"
         title={$t('nav.menu.donate')}
@@ -198,6 +198,7 @@
       >
         <Icon src={CodeBracketSquare} size="16" mini />
       </Button>
+-->
     </div>
   </li>
 </Menu>
